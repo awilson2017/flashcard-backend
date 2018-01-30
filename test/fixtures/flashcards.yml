@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  korean_word: MyString
+
+two:
+  user: two
+  korean_word: MyString
